@@ -1,2 +1,2 @@
-# TransportadoraLP-2023
-trabalho final da segunda fase!
+# Python
+Aulas e exercícios realizados no curso técnico de informática
